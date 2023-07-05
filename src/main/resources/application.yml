@@ -1,0 +1,6 @@
+server:
+  port: 9191
+
+AIRTABLE_API_KEY: keyzcpXsupauEJBhZ
+SP_BASE_URI: https://api.sparkpost.com
+TESTING_DOMAIN: paradx.dev
